@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="bootstrap/dist/css/bootstrap.css">  
     <link rel="stylesheet" href="estilos/estiloaltacliente.css">
-    <title>Meztiza || Alta Clientes</title>
+    <title>Meztiza || Alta Clientes Astu</title>
 </head>
 <body>
 <div class="container" style="background-color: red;">
